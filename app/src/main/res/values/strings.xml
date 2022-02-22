@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NetworkTest</string>
+    <string name="SendRequest">发送请求</string>
+</resources>
